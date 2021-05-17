@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed5ad76f691732b47a59f71222404992, type: 3}
+  m_Name: Scroll of Humans
+  m_EditorClassIdentifier: 
+  id: 21
+  nid: 0
+  description: 
+  image: {fileID: 21300000, guid: 24ed7d07b6ed95844b92fd744abbb84a, type: 3}
+  maxHp: 0
+  speed: 0
+  attack: 0
+  armor: 0
+  isConsumable: 1
+  raceName: Human

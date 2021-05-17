@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adb55dad9bdeefa4a93b0321338f251c, type: 3}
+  m_Name: Jolhert
+  m_EditorClassIdentifier: 
+  id: 11
+  nid: 0
+  description: 
+  image: {fileID: 21300000, guid: 5c35b2325a73f0743a7e5dfd696c309d, type: 3}
+  maxHp: 0
+  speed: 0
+  attack: 0
+  armor: 0
+  isConsumable: 0
